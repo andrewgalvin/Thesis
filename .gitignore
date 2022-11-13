@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+research/sci-kit-learn/tmp
+
 # Distribution / packaging
 .Python
 build/
